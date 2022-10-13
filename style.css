@@ -4,7 +4,7 @@
    padding:0;
    box-sizing: border-box;
    font-family:roboto , sans-serif;
-   font-size: 30px;
+   
 }
 body{
      height:100vh;
@@ -64,6 +64,10 @@ form{
      left:220px;
      box-shadow: 3px 3px 3px 5px rgba(0, 0, 0, 1), 2px 3px 3px rgba(0, 0, 0, 1);
      background-color: red;
+}
+input{    
+     height:40px; 
+     width: 341px;   
 }
 
 .btn{
